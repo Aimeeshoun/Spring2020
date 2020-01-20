@@ -1,16 +1,17 @@
 ﻿
 using UnityEngine;
 
-public class instanciate : MonoBehaviour
+public class Instanciate : MonoBehaviour
 {
-    public GameObject prefab;
+    
+        public GameObject prefab;
 
-    void Start()
-    {
-        for (int i = 0; i < 10; i++)
+        void Start()
         {
-            Instantiate(prefab, new Vector3(i * 2.0F, 0, 0), Quaternion.identity);
+            for (int i = 0; i < 10; i++)
+            {
+                Instantiate(prefab, new Vector3(i * 2.0F, 0, 0), Quaternion.identity);
+            }
         }
-    }
 
-}
+    }
