@@ -150,6 +150,8 @@
         <e p="Destroy.cs" t="Include" />
         <e p="eventTest.cs" t="Include" />
         <e p="instanciate.cs" t="Include" />
+        <e p="Instanciate5.cs" t="Include" />
+        <e p="Instanciatefour.cs" t="Include" />
         <e p="Instanciatethree.cs" t="Include" />
         <e p="Instanciatetwo.cs" t="Include" />
         <e p="pickup.cs" t="Include" />

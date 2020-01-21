@@ -116,6 +116,8 @@
     <Compile Include="Assets\Destroy.cs" />
     <Compile Include="Assets\eventTest.cs" />
     <Compile Include="Assets\Instanciate.cs" />
+    <Compile Include="Assets\Instanciate5.cs" />
+    <Compile Include="Assets\Instanciatefour.cs" />
     <Compile Include="Assets\Instanciatethree.cs" />
     <Compile Include="Assets\Instanciatetwo.cs" />
     <Compile Include="Assets\pickup.cs" />
