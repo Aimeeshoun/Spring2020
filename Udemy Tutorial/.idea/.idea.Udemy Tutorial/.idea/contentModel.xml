@@ -154,7 +154,9 @@
         <e p="Instanciatefour.cs" t="Include" />
         <e p="Instanciatethree.cs" t="Include" />
         <e p="Instanciatetwo.cs" t="Include" />
+        <e p="PARTICLE.cs" t="Include" />
         <e p="pickup.cs" t="Include" />
+        <e p="ren.cs" t="Include" />
         <e p="rotate.cs" t="Include" />
         <e p="Score.cs" t="Include" />
         <e p="scripts" t="Include">
